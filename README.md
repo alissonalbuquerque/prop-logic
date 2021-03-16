@@ -1,2 +1,4 @@
-# std-logic
-Uma biblioteca para testes de lógica bivalente ou lógica padrão
+
+# Lógica Proposicional
+
+Uma biblioteca para testes de lógica bivalente / proposicional baseada em funções
